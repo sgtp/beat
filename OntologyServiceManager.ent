@@ -1,0 +1,7 @@
+<project name="OntologyServiceManager" default="build">
+
+<target name="build">
+<javac srcdir="." destdir="bin" />
+</target>
+
+</project>
